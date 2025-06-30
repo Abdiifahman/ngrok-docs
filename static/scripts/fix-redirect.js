@@ -972,7 +972,7 @@ const redirects = [
 		fromExact("/docs/guides/other-guides/load-balancing-kubernetes-clusters/"),
 		"/docs/k8s/load-balancing/load-balancing-kubernetes-clusters/",
 	],
-		[
+	[
 		fromExact("/docs/universal-gateway/cloud-endpoints/quickstart/"),
 		"/docs/getting-started/cloud-endpoints-quickstart",
 	],
