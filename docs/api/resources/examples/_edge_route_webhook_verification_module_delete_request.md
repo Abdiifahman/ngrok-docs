@@ -7,5 +7,5 @@ curl \
 -X DELETE \
 -H "Authorization: Bearer {API_KEY}" \
 -H "Ngrok-Version: 2" \
-https://api.ngrok.com/edges/https/edghts_2yJQYtRF7U5Mx90Z1wyGwNi1fnm/routes/edghtsrt_2yJQYooo2WEVASV5AtHVUMA4yO3/webhook_verification
+https://api.ngrok.com/edges/https/edghts_2zGjhSPOLQdsOy67phhHX1OaxWP/routes/edghtsrt_2zGjhP9eV0G7LMk4IvjA78tC8FX/webhook_verification
 ```
