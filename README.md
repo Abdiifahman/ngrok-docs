@@ -100,3 +100,40 @@ pnpm run test:watch
 
 For bug reports, feature request, questions and community support please ooen an issue or discussion in our [ngrok Community](https://github.com/ngrok/ngrok).
 To report a problem with our documentation, please open a new [Github issue](https://github.com/ngrok/ngrok-docs/issues).
+👋 أهلاً بك في ملفي الشخصي | Welcome to my Profile
+أنا سلطان (SULTAN-AAA)
+
+باحث ومطور ذكاء اصطناعي & خبير أمن سيبراني
+
+AI Researcher @ University of Malaya | Cybersecurity Specialist
+
+ORCID iD
+
+🇸🇦 أبحث عن فرص في جدة	Looking for opportunities in Jeddah 🇸🇦
+✍️ نبذة عني | About Me
+
+طالب وباحث في جامعة مالايا (UM)، أجمع بين قوة الذكاء الاصطناعي وعمق الأمن السيبراني. متخصص في تطوير الأنظمة الذكية وتأمينها، مع خبرة واسعة في الاختراق الأخلاقي والدفاع الرقمي. أسعى لتوظيف تقنيات الـ AI لخدمة الحلول الأمنية والمشاريع التقنية المبتكرة في المملكة العربية السعودية.
+
+AI Researcher at University of Malaya. I bridge the gap between AI and Cybersecurity. Specialist in developing intelligent systems and securing them, with expertise in Ethical Hacking and Cyber Defense. My goal is to leverage AI for advanced security solutions.
+
+🚀 المهارات التقنية | Technical Skills
+
+🧠 الذكاء الاصطناعي & البرمجة
+
+     
+🛡️ الأمن السيبراني | Cybersecurity
+
+     
+🛠 المشاريع الحالية | Projects
+
+Project Qadr: مشروع ريادي يهدف إلى [أضف وصفاً موجزاً لجوهر المشروع، مثلاً: توفير حلول تقنية ذكية].
+AI-Driven Security: أبحاث حول دمج خوارزميات تعلم الآلة في كشف التسلل (IDS) وحماية البيانات.
+📊 إحصائيات GitHub | Stats
+
+ 
+
+📞 تواصل معي | Connect with me[+60-182945341]
+
+ORCID: 0009-0005-6414-2037
+الخاص بك]
+dxoom18@hmail.com: [إيميلك الرسمي]
