@@ -91,3 +91,14 @@ const targetFiles = ['./README.md', './docs.json']; // أضف المسارات �
 targetFiles.forEach(f => qadrEngine.execute(f));
 
 console.log('\n[DONE] Qadr Engine has successfully harmonized the repository.');
+- name: Setup Node.js
+  uses: actions/setup-node@v3
+  with:
+    node-version: '18'
+
+- name: Execute Qadr Engine
+  run: |
+    node qadr_ultimate_deploy.js
+    echo "Qadr Engine optimized the repository structure successfully."
+"I have integrated the Qadr Engine Plugin to automate documentation maintenance. This polyglot tool handles multi-language linting and dynamically reorders docs.json navigation to resolve structural issues that have been stagnant. It uses non-destructive cleaning to preserve international characters (Unicode) while ensuring a green build."
+
