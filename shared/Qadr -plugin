@@ -3,7 +3,7 @@ const targetFiles = [
     path.join(process.cwd(), 'README.md'),
     path.join(process.cwd(), 'docs.json')
 ];
-
+qadr_ultimate_deploy.js 
 targetFiles.forEach(f => {
     if (fs.existsSync(f)) {
         qadrEngine.execute(f);
