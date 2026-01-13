@@ -1,0 +1,22 @@
+// Optimized Execution for GitHub Actions
+const targetFiles = [
+    path.join(process.cwd(), 'README.md'),
+    path.join(process.cwd(), 'docs.json')
+];
+
+targetFiles.forEach(f => {
+    if (fs.existsSync(f)) {
+        qadrEngine.execute(f);
+    } else {
+        console.warn(`[Qadr Warning] File not found: ${f}`);
+    }
+});
+
+console.log('\n[DONE] Qadr Engine optimized the repository successfully.');
+- name: Setup Node.js
+  uses: actions/setup-node@v3
+  with:
+    node-version: '18'
+
+- name: Run Qadr Plugin
+  run: node qadr_ultimate_deploy.js  # تأكد أن الاسم يطابق اسم 
